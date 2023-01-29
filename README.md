@@ -1,4 +1,4 @@
-# group_project_1
+# AKC Dogs Analysis
 Questions:
 1.    Do smaller dogs bark more?
 2.    What are the life expectancies of different sized dogs?
